@@ -1,5 +1,5 @@
 # RocketEscape
 
-#Controls
-Space for Main Engine Boost
-A, D for Side Thrusting
+Controls:
+Space for Main Engine Boost,
+A and D for Side Thrusting
